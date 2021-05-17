@@ -1,0 +1,38 @@
+.mainHeader{
+	margin-left:20;
+	background-color:pink;
+	display:block;
+	width:200
+}
+
+.mainBody{
+	}
+
+.form-style{
+	margin-left:30;
+}
+
+
+.test{
+	display:inline-block;
+}
+
+.memeTextHeader{
+	float: right;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.topText{
+	margin-top: -300px;
+	text-align:center;
+}
+
+.bottomText{
+margin-top: 230px;
+text-align:center;
+}
+.imgDiv{
+	margin-top:20px;
+}
